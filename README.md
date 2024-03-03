@@ -5,7 +5,7 @@ Focus on logging the keys pressed and saving them to a file.
 (**Note: Ethical considerations and permissions are crucial for projects involving keyloggers.**)
 
 Here's a basic keylogger program in Python. This program uses the pynput library to monitor keystrokes and save them to a log file.
-First, make sure you have the pynput library installed. You can install it using pip:
+First, make sure you have the pynput library installed. You can install it using pip.You can do this by running the following command in your terminal of VS Code:
 
 '**pip install pynput**'
 
