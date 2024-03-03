@@ -9,6 +9,8 @@ First, make sure you have the pynput library installed. You can install it using
 
 '**pip install pynput**'
 
+After installing the library, you can run the code. It will start recording your keystrokes and saving them to a file named '**keylog.txt**' in the same directory as your Python script.
+
 This program first defines the on_key_press function, which is called whenever a key is pressed. 
 The function gets the current timestamp and writes it to a log file along with the key that was pressed.
 The main function prints a message to the console indicating that the user can stop logging by pressing Ctrl+C. 
